@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lesprgm
 - 👀 I’m interested in learning more and improving my skills
-- 🌱 I’m currently learning Matlab
-- 💞️ I’m looking to collaborate on projects involving Matlab and Python
+- 🌱 I’m currently learning Swift
+- 💞️ I’m looking to collaborate on projects involving Java and Python
 - 📫 How to reach me lesozzy5@gmail.com
 - 😄 Pronouns: He/him
 
