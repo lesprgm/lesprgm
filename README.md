@@ -1,5 +1,5 @@
-# 💫 About Me:
-- 👋 Hi, I’m @lesprgm<br>- 👀 I’m interested in learning more and improving my skills<br>- 🌱 I’m currently learning Swift<br>- 💞️ I’m looking to collaborate on projects involving Java and Python<br>- 📫 How to reach me lesozzy5@gmail.com<br>- 😄 Pronouns: He/him<br>
+#  About Me:
+- 👋 Hi, I’m @lesprgm<br>-  Favorite command: git push -f <br>-  I’m currently learning how to quit vim<br>- 📫 How to reach me lesozzy5@gmail.com<br>-  Pronouns: He/him<br>
 
 
 # 💻 Tech Stack:
