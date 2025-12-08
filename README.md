@@ -1,5 +1,5 @@
 #  About Me:
-- 👋 Hi, I’m @lesprgm<br>-  Favorite command: git push -f <br>-  I’m still learning how to quit vim<br>- 📫 How to reach me lesozzy5@gmail.com<br>-  Pronouns: He/him<br>
+- 👋 Hi, I’m Leslie, Junior at the College of Wooster <br>-  I’m still learning how to quit vim<br>- 📫 How to reach me lesozzy5@gmail.com<br>-  Pronouns: He/him<br>
 
 
 # 💻 Tech Stack:
